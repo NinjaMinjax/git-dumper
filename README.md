@@ -1,6 +1,7 @@
 # git-dumper
 
 A tool to dump a git repository from a website.
+This version works with Kali Linux - Uses requests instaed of requests-pkcs12
 
 ## Install
 
